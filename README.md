@@ -1,7 +1,7 @@
 ### HEY THERE - I'm NIMRA ZAFAR  👋
 
 
-<p style="iamge-align:center;"><img src="https://raw.githubusercontent.com/awais-amjed/awais-amjed/main/404.gif" width="400" height="200"></p>
+<center><img src="https://raw.githubusercontent.com/awais-amjed/awais-amjed/main/404.gif" width="500" height="200"></center>
 
 
 ### HERE IS SOME INFORMATION ABOUT ME 💁🏻
