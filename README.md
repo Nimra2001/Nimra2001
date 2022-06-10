@@ -8,7 +8,9 @@
 
 ![image](https://user-images.githubusercontent.com/75243548/173019656-b185fb78-3f17-40a4-afb5-2dccb18b9967.png)                ![hi](https://user-images.githubusercontent.com/75243548/173044864-3f272dda-81d4-4f22-b3c4-26dd2bd71310.gif)
 
-### TECHNOLOGIES  ![technology|320x271,50%](https://user-images.githubusercontent.com/75243548/173046813-f0909ec8-cd92-4edf-a23e-038a2603a263.png)
+### TECHNOLOGIES  
+
+![image](https://user-images.githubusercontent.com/75243548/173047172-a545b35c-ea98-46cf-8a4f-ba9e64a62c86.png)
 
 
 
