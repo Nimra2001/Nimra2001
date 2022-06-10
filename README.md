@@ -1,4 +1,4 @@
-### HEY THERE - I'm NIMRA ZAFAR  👋
+### HEY THERE - I AM NIMRA ZAFAR  👋
 
 
 <img align="center" src="https://raw.githubusercontent.com/awais-amjed/awais-amjed/main/404.gif" width="500" height="200">
