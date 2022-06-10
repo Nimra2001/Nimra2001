@@ -1,16 +1,12 @@
-### HEY THERE - I AM NIMRA ZAFAR  👋
+### HEY THERE - I'm NIMRA ZAFAR  👋
 
-<!--
-**Nimra2001/Nimra2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+var nimraZafar = {
+🔭  currentStatus: "Working as a Freelancer on Fiver",
+👀  lookingForJobsIn: "Front-End Development with Flutter",
+👩🏻‍💻  languages: [Dart,Java,C++],
+👩🏻‍🎓 qualification: "Computer Sciene (2019-2023)",
+❤️‍🔥 passions: Flutter,
+😄 hobbies: ["Gaming", "Watching Movies", "Listening to Music"],
+⚡  weirdFact: "I code while eating || watching movies",
+}
