@@ -8,8 +8,8 @@
 
 ![image](https://user-images.githubusercontent.com/75243548/173019656-b185fb78-3f17-40a4-afb5-2dccb18b9967.png)                ![hi](https://user-images.githubusercontent.com/75243548/173044864-3f272dda-81d4-4f22-b3c4-26dd2bd71310.gif)
 
-### TECHNOLOGIES  <img src="(https://user-images.githubusercontent.com/75243548/173046449-aba799f7-092c-4a3b-a37f-1431c717b0cb.png)" width="50" height="50">
+### TECHNOLOGIES  <img technogogy="(https://user-images.githubusercontent.com/75243548/173046449-aba799f7-092c-4a3b-a37f-1431c717b0cb.png)" width="50" height="50">
 
 
-![technology](https://user-images.githubusercontent.com/75243548/173046449-aba799f7-092c-4a3b-a37f-1431c717b0cb.png)
+
 
