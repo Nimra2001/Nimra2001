@@ -14,7 +14,9 @@
  <img src="https://raw.githubusercontent.com/awais-amjed/awais-amjed/main/Java.png" width="200" height="100">
 
 
-
+<form action="https://web.whatsapp.com">
+    <input type="submit" value="Go to Google" />
+</form>
 
 
 
