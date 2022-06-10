@@ -25,10 +25,10 @@ has two pannels: admin pannel and user pannel</dd>
 <dd>-Technology Used: Dart, Flutter</dd>
   <dt>Food Delivery App</dt>
   <dd>- Food Delivery App used by the delivery boy where he will get
-the order and deliver the food
--Technology Used: Dart, Flutter</dd>
+the order and deliver the food</dd>
+<dd>-Technology Used: Dart, Flutter</dd>
  <dt>BlackRoom Biz Mobile Application</dt>
-  <dd>-Interactive and Freendly interface to book the barber online. Barber will able to see the ongoing and history bookings
-   -Technology Used: Dart, Flutter</dd>
+  <dd>-Interactive and Freendly interface to book the barber online. Barber will able to see the ongoing and history bookings</dd>
+  <dd>-Technology Used: Dart, Flutter</dd>
 </dl>
 
