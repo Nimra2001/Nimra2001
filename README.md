@@ -6,7 +6,7 @@
 
 ### HERE IS SOME INFORMATION ABOUT ME 💁🏻
 
-![image](https://user-images.githubusercontent.com/75243548/173019656-b185fb78-3f17-40a4-afb5-2dccb18b9967.png)     <img src="https://raw.githubusercontent.com/awais-amjed/awais-amjed/main/hi.gif" width="200" height="400">        
+![image](https://user-images.githubusercontent.com/75243548/173019656-b185fb78-3f17-40a4-afb5-2dccb18b9967.png)     <img src="https://raw.githubusercontent.com/awais-amjed/awais-amjed/main/hi.gif" width="200" height="200">        
 
 ### TECHNOLOGIES  
 
