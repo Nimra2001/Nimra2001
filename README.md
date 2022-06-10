@@ -19,10 +19,10 @@
 
 ### PROJECTS
 <dl>
-  <dt>estibafy_helpers</dt>
+  <dt>Estibafy_helpers</dt>
   <dd>- Container app used to book the containers and the helpers online and the data will be stored through the Apis. The project
-has two pannels: admin pannel and user pannel
--Technology Used: Dart, Flutter</dd>
+has two pannels: admin pannel and user pannel</dd>
+<dd>-Technology Used: Dart, Flutter</dd>
   <dt>Food Delivery App</dt>
   <dd>- Food Delivery App used by the delivery boy where he will get
 the order and deliver the food
