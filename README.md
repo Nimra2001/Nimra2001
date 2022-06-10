@@ -19,9 +19,11 @@
 
 ### PROJECTS
 <dl>
-  <dt>Estibafy_helpers</dt>
-  <dd>- Container app used to book the containers and the helpers online and the data will be stored through the Apis. The project
+  <dt>Estibafy</dt>
+  <dd>- Container app used to book the containers and the helpers online. The project
 has two pannels: admin pannel and user pannel</dd>
+ <dd>-Rest APIs</dd>
+ <dd>-Firebase</dd>
 <dd>-Technology Used: Dart, Flutter</dd>
 <dd>-IDE: Android Studio</dd>
   <dt>Food Delivery App</dt>
