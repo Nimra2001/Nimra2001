@@ -10,7 +10,7 @@
 
 ### TECHNOLOGIES  
 
-<img src="https://raw.githubusercontent.com/awais-amjed/awais-amjed/main/Flutter.png" width="200" height="100">  <img src="https://raw.githubusercontent.com/awais-amjed/awais-amjed/main/Java.png" width="200" height="100"> <img src="[https://raw.githubusercontent.com/awais-amjed/awais-amjed/main/Java.png](https://play-lh.googleusercontent.com/kaox1VteLsWAuNxPxhm8t4llaoyFhxzDjo9g4Hdf92bKdT_Sn6Yrdku6rApuc5ktirw)" width="200" height="100">
+<img src="https://raw.githubusercontent.com/awais-amjed/awais-amjed/main/Flutter.png" width="200" height="100">  <img src="https://raw.githubusercontent.com/awais-amjed/awais-amjed/main/Java.png" width="200" height="100"> <img src="https://play-lh.googleusercontent.com/kaox1VteLsWAuNxPxhm8t4llaoyFhxzDjo9g4Hdf92bKdT_Sn6Yrdku6rApuc5ktirw" width="200" height="100">
 
 
 
