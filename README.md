@@ -15,7 +15,7 @@
 
 ### CONNECT WITH ME
 
-<a href="https://twitter.com/abbas_nimi" rel="nofollow"><img align="center" src="https://github.com/moulibheemaneti/icons/raw/master/social%20icons/twitter-tile.svg" alt="instagram" height="40" width="40" style="max-width: 100%;"></a>  <a href="https://linkedin.com/in/https://www.linkedin.com/in/zubairehman/" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/c3aae05bca24b76260a337299ad83032637c85accd96b1b3dc67ca4957e2d6b9/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f39362f3030303030302f6c696e6b6564696e2e706e67" alt="https://www.linkedin.com/in/nimra-zafar-445099231/" height="40" width="40" data-canonical-src="https://img.icons8.com/fluent/96/000000/linkedin.png" style="max-width: 100%;"></a>
+<a href="https://twitter.com/abbas_nimi" rel="nofollow"><img align="center" src="https://github.com/moulibheemaneti/icons/raw/master/social%20icons/twitter-tile.svg" alt="instagram" height="40" width="40" style="max-width: 100%;"></a>  <a href="https://linkedin.com/in/https://www.linkedin.com/in/zubairehman/" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/c3aae05bca24b76260a337299ad83032637c85accd96b1b3dc67ca4957e2d6b9/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f39362f3030303030302f6c696e6b6564696e2e706e67" alt="www.linkedin.com/in/nimrazafar" height="40" width="40" data-canonical-src="https://img.icons8.com/fluent/96/000000/linkedin.png" style="max-width: 100%;"></a>
 
 
 
