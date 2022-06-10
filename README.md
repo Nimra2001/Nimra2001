@@ -1,12 +1,5 @@
 ### HEY THERE - I'm NIMRA ZAFAR  👋
 
 
-var nimraZafar = {
-🔭  currentStatus: "Working as a Freelancer on Fiver",
-👀  lookingForJobsIn: "Front-End Development with Flutter",
-👩🏻‍💻  languages: [Dart,Java,C++],
-👩🏻‍🎓 qualification: "Computer Sciene (2019-2023)",
-❤️‍🔥 passions: Flutter,
-😄 hobbies: ["Gaming", "Watching Movies", "Listening to Music"],
-⚡  weirdFact: "I code while eating || watching movies",
-}
+
+![image](https://user-images.githubusercontent.com/75243548/173019656-b185fb78-3f17-40a4-afb5-2dccb18b9967.png)
