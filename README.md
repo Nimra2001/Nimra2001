@@ -10,8 +10,8 @@
 
 ### LANGUAGES AND TOOLS
 
-<img src="https://raw.githubusercontent.com/awais-amjed/awais-amjed/main/Flutter.png" width="150" height="70"> <img src="https://play-lh.googleusercontent.com/kaox1VteLsWAuNxPxhm8t4llaoyFhxzDjo9g4Hdf92bKdT_Sn6Yrdku6rApuc5ktirw" width="50" height="50"> <img src="https://www.xda-developers.com/files/2018/03/android-studio-logo.png" width="100" height="50"><img src="https://e7.pngegg.com/pngimages/119/167/png-clipart-firebase-cloud-messaging-google-developers-software-development-kit-google-angle-triangle-thumbnail.png" width="50" height="50"> <img src="https://blog.postman.com/wp-content/uploads/2021/03/APIs-in-Postman-e1616786230943.png" width="100" height="50">
- <img src="https://raw.githubusercontent.com/awais-amjed/awais-amjed/main/Java.png" width="200" height="50">
+<img src="https://raw.githubusercontent.com/awais-amjed/awais-amjed/main/Flutter.png" width="150" height="70"> <img src="https://play-lh.googleusercontent.com/kaox1VteLsWAuNxPxhm8t4llaoyFhxzDjo9g4Hdf92bKdT_Sn6Yrdku6rApuc5ktirw" width="50" height="50"> <img src="https://www.xda-developers.com/files/2018/03/android-studio-logo.png" width="100" height="50"><img src="https://e7.pngegg.com/pngimages/119/167/png-clipart-firebase-cloud-messaging-google-developers-software-development-kit-google-angle-triangle-thumbnail.png" width="50" height="50"> <img src="https://blog.postman.com/wp-content/uploads/2021/03/APIs-in-Postman-e1616786230943.png" width="50" height="50">
+ <img src="https://raw.githubusercontent.com/awais-amjed/awais-amjed/main/Java.png" width="100" height="50">
 
 ### CONNECT WITH ME
 
