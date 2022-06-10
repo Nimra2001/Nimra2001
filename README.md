@@ -8,5 +8,6 @@
 
 ![image](https://user-images.githubusercontent.com/75243548/173019656-b185fb78-3f17-40a4-afb5-2dccb18b9967.png)                ![hi](https://user-images.githubusercontent.com/75243548/173044864-3f272dda-81d4-4f22-b3c4-26dd2bd71310.gif)
 
+### TECHNOLOGIES  ![technology](https://user-images.githubusercontent.com/75243548/173045466-2f001bf4-6425-4cea-812a-c6a6f13073c0.png){:height="20px" width="20px"}
 
 
