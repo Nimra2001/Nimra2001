@@ -1,6 +1,8 @@
 ### HEY THERE - I'm NIMRA ZAFAR  👋
 
- ![404]( https://user-images.githubusercontent.com/75243548/173020659-5ecf9886-eeb8-4431-b01b-b254e2d3e0d3.gif/200/300?style=centerme ) 
+++++
+<p align="center">![404]( https://user-images.githubusercontent.com/75243548/173020659-5ecf9886-eeb8-4431-b01b-b254e2d3e0d3.gif) </p>
+++++
 
 ### HERE IS SOME INFORMATION ABOUT ME 💁🏻
 
