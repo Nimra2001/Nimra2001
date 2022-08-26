@@ -33,7 +33,7 @@ the order and deliver the food</dd>
  <dd>-IDE: Android Studio</dd>
  <dt>BlackRoom Biz Mobile Application</dt>
   <dd>-Interactive and Freendly interface to book the barber online. Barber will able to see the ongoing and history bookings</dd>
-  <dd>-Technology Used: Dart, Flutter</dd>
+  <dd>-Technology Used: Dart & Flutter</dd>
  <dd>-IDE: Android Studio</dd>
 </dl>
 
