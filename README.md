@@ -28,7 +28,7 @@ has two pannels: admin pannel and user pannel</dd>
 <dd>-IDE: Android Studio</dd>
   <dt>Food Delivery App</dt>
   <dd>- Food Delivery App used by the delivery boy where he will get
-the order and deliver the food</dd>
+the order & deliver the food</dd>
 <dd>-Technology Used: Dart, Flutter</dd>
  <dd>-IDE: Android Studio</dd>
  <dt>BlackRoom Biz Mobile Application</dt>
